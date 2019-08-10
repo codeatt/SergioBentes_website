@@ -16,10 +16,10 @@
   <body>
     <nav>
       <a class="btn" href="#" id="home" style="color: yellow; float: left">Página em construção</a>
-			<a class="btn" href="index.html" id="home">Home</a>
-			<a class="btn" href="https://www.facebook.com/sergio.bentes.5">Facebook</a>
-			<a class="btn" href="https://github.com/codeatt">Github</a>
-			<a class="btn" href="https://www.linkedin.com/in/sergiobentes/">LinkedIn</a>
+			<a class="btn" href="https://sergiobentes.herokuapp.com/" id="home">Home</a>
+			<a class="btn" href="https://www.facebook.com/sergio.bentes.5" target="_blank">Facebook</a>
+			<a class="btn" href="https://github.com/codeatt" target="_blank">Github</a>
+			<a class="btn" href="https://www.linkedin.com/in/sergiobentes/" target="_blank">LinkedIn</a>
       <a class="btn" href="#" id="home" style="color: yellow; float: right">Página em construção</a>
 		</nav>
     <h1>Olá mundo, me chamo Sergio Bentes!</h1>
