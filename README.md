@@ -1,2 +1,2 @@
-# SergioBentes_website
+# SBCVAPP
 Site estático para apresentação pessoal
