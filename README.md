@@ -1,2 +1,2 @@
-# SB_app
+# SBCVAPP
 Site estático para apresentação pessoal
